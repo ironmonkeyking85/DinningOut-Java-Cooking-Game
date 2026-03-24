@@ -39,13 +39,13 @@ Assets: PNG images and FXML files for layout design
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install **Java JDK 17+**  
 2. Install **JavaFX SDK**  
